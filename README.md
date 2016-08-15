@@ -1,6 +1,8 @@
 # ghostwriter-theme-sepia
 Sepia theme for **[ghostwriter](https://github.com/wereturtle/ghostwriter)** markdown editor.
 
+![Screenshot of Sepia theme for ghostwriter markdown editor](/Sepia/screenshot.png)
+
 ## Install
 1. Download Sepia theme
 2. Place theme in the ghostwriter themes folder. The themes folder is located in one of the following locations, based on your OS:
